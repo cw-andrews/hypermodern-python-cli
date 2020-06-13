@@ -133,3 +133,6 @@ dmypy.json
 
 # poetry
 poetry.lock
+
+# click testing
+click.testing
